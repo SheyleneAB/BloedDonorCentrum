@@ -1,4 +1,4 @@
-﻿namespace DonorBeheerDomein
+﻿namespace DonorBankDomein
 {
     public class Class1
     {
