@@ -1,0 +1,6 @@
+@BloedDonor.Label.Apii_HostAddress = http://localhost:5180
+
+GET {{BloedDonor.Label.Apii_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
